@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "loginfirebase-e8ecc",
+    "oneToOneChat": "login-c24a9"
+  }
+}
